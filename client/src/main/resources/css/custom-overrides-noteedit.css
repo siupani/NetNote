@@ -1,0 +1,10 @@
+.button {
+    -fx-padding: 5 15; /* Add appropriate padding */
+    -fx-font-size: 14px; /* Adjust font size */
+    -fx-text-alignment: center; /* Center-align text */
+}
+
+#markdownPreview {
+    -fx-background-color: black;
+    -fx-text-color: white;
+}

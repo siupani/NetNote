@@ -1,0 +1,40 @@
+/*Wrote some basic, sample css code for the markdown renderer*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0C1017;
+    color: white;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+a {
+    color: #1E90FF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+code {
+    background-color: #f4f4f4;
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+pre {
+    background-color: #2f2f2f;
+    color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    overflow-x: auto;
+}
