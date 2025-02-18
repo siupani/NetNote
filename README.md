@@ -1,15 +1,15 @@
 # NetNote
 
-##Starting template
+## Starting template
 This README contains information about the description of the project, the team that contributed to the project and instructions on how to initialise and run the app on your local device. If you encounter any issues or have any questions, do not hesitate to contact me at: urumovstepan@gmail.com. Thank you and I hope you will enjoy the app!
 
-##Description of project
+## Description of project
 NetNote is a project developed during the course CSE1105 - Collaborative Software Engineering Project offered by Technical Univeristy of Delft by class of 2027 composed by the developers presented in the next section.
 
-##Group Members
+## Group Members
 Group members include: Stepan Urumov, Sergiu Tiron, Victor Bădescu, Luca Bledea Floruţa and Melle Moerkerk
 
-##How to run
+## How to run
 To run the template project from the command line, you either need to have [Maven](https://maven.apache.org/install.html) installed on your local system (`mvn`) or you need to use the Maven wrapper (`mvnw`). You can then execute
 
 	mvn clean install
